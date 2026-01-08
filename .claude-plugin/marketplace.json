@@ -1,0 +1,18 @@
+{
+  "name": "baidu-ccc-marketplace",
+  "owner": {
+    "name": "Baidu Team"
+  },
+  "plugins": [
+    {
+      "name": "baidu-ccc",
+      "description": "百度 Coding Config 管理工具 - 同步和管理团队的 Claude 配置（commands、hooks、skills、agents）",
+      "version": "1.0.0",
+      "source": {
+        "type": "github",
+        "repo": "xwa5/baidu-ccc-marketplace",
+        "subdirectory": "baidu-ccc"
+      }
+    }
+  ]
+}
