@@ -1,0 +1,13 @@
+{
+  "name": "baidu-ccc",
+  "version": "1.0.0",
+  "description": "百度 Coding Config 管理工具 - 同步和管理团队的 Claude 配置",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
